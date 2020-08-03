@@ -1,7 +1,7 @@
 # Notes_Mern
 Notes using MERN Stack
 
-[Backend Here](https://github.com/agusprats/Notes_Mern_B) 
+[Frontend Here](https://github.com/agusprats/Notes_Mern_B) 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).<br/>
 
