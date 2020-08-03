@@ -1,7 +1,10 @@
 # Notes_Mern
 Notes using MERN Stack
 
+[See Backend:](https://github.com/agusprats/Notes_Mern_B) 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).<br/>
+
 Project led by Fazt Web.
 
 ## Available Scripts
